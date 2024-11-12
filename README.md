@@ -1,1 +1,1 @@
-# origamid
+# Repository of Origamid Courses
